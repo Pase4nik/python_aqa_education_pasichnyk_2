@@ -16,3 +16,5 @@ pytest-cov==3.0.0
 toml==0.10.2
 tomli==1.2.2
 wrapt==1.12.1
+
+termcolor~=1.1.0
